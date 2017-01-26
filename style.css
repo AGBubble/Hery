@@ -1,0 +1,59 @@
+.new_post
+{
+	border-style : solid;
+	border-width : 4px ;
+	padding : 5% ;
+	margin-top : 5%;
+	background-color : rgba(112,128,144,0.3); 
+	
+}
+
+.post
+{
+	border-style : solid;
+	border-width : 2px;
+	border-color : grey ;
+	padding : 5%;
+	margin-top : 15%;
+	background-color : rgba(153,153,153, 0.5);
+	
+}
+
+.comment
+{
+	border-style : solid;
+	border-width : 2px;
+	border-color : grey;
+	padding : 2%;
+	background-color : rgba(153,153,153, 0.2);
+}
+
+.post_comment
+{
+	border-style : solid;
+	border-width : 4px;
+	padding : 1%;
+	margin-top: 3%;
+	background-color : rgba(153,153,153, 0.3);
+	
+}
+
+.signup
+{
+	margin-left: 40%;
+	padding:1%;
+	width : 25%;
+	border-style : solid;
+	border-width : 3px;
+	border-color : black;
+	text-align : center;
+}
+
+.connexion
+{	
+	border: 3px solid black;
+	margin-left: auto;
+	margin-right: auto;
+	width: 20%;
+	padding: 0.5%;
+}	
